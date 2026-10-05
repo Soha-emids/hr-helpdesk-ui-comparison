@@ -50,7 +50,7 @@ Clone the repository and switch to the required branch:
 ```bash
 git clone <repository-url>
 cd hr-helpdesk-ui-comparison
-git checkout deepseek-ui
+git checkout glm-ui
 
 ## Install dependencies:
 
